@@ -4,28 +4,28 @@ RepoAccessCheck is a Bash script that utilizes the GitHub API to list users with
 
 FEATURES
 
-List Users with Read Access:
-Quickly retrieve and display a list of users who have read access to a specified GitHub repository.
-Authentication: Authenticate using your GitHub username and personal access token to access repository data securely.
-User-Friendly Output: Display the list of collaborators with read access in a clear and concise format.
-Error Handling: Robust error handling mechanisms to provide informative messages in case of API request failures or invalid input parameters.
+* List Users with Read Access: Quickly retrieve and display a list of users who have read access to a specified GitHub repository.
+* Authentication: Authenticate using your GitHub username and personal access token to access repository data securely.
+* User-Friendly Output: Display the list of collaborators with read access in a clear and concise format.
+* Error Handling: Robust error handling mechanisms to provide informative messages in case of API request failures or invalid input parameters.
+  
 USAGE
 
-Prerequisites: Ensure you have curl and jq installed on your system.
+1. Prerequisites: Ensure you have curl and jq installed on your system.
 
-Authentication: Set up authentication by providing your GitHub username and personal access token in the script.
+2. Authentication: Set up authentication by providing your GitHub username and personal access token in the script.
 
-Run the Script: Execute the script and specify the repository owner and name as command-line arguments.
+3. Run the Script: Execute the script and specify the repository owner and name as command-line arguments.
 
-View Results: The script will fetch and display the list of users with read access to the specified repository.
+4. View Results: The script will fetch and display the list of users with read access to the specified repository.
 
 INSTALLATION
 
-Clone the repository to your local machine: git clone https://github.com/moulikagit/GITHUB-API-ACCESS.git
+1. Clone the repository to your local machine: git clone https://github.com/moulikagit/GITHUB-API-ACCESS.git
 
-Edit the script and provide your GitHub username and personal access token.
+2. Edit the script and provide your GitHub username and personal access token.
 
-Follow the usage instructions to run the script.
+3. Follow the usage instructions to run the script.
 
 FEEDBACK
 
