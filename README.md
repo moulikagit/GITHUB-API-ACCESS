@@ -30,7 +30,3 @@ INSTALLATION
 FEEDBACK
 
 We welcome feedback! If you encounter any issues, have suggestions for improvements, or would like to contribute to the project, please feel free to open an issue or submit a pull request.
-
-LICENSE
-
-This project is licensed under the Apache
